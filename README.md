@@ -1,1 +1,1 @@
-# studentlife
+# Student Life
